@@ -1,0 +1,19 @@
+html{
+    scroll-behavior: smooth;
+}
+
+#logo{
+    font-family: 'Great Vibes', cursive;
+    padding: 1rem 2rem;
+    font-weight: bold;
+    font-size:40px;
+}
+
+section{
+    height: 90vh;
+}
+
+main{
+    background-color: azure;
+}
+
